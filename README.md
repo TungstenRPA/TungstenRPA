@@ -1,8 +1,10 @@
 
 # What's new in Kofax RPA 11.3
-Join us [online](https://cvent.me/Y7gqWA) on Tuesday April 22, 2022.
+Join us [online](https://cvent.me/Y7gqWA) on Tuesday April 22, 2022.  
+
 
 ## Useful Links
+* [What's new in Kofax 11.3](https://github.com/KofaxRPA/RPA-11.3) presentation and robots.
 * [Kofax RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.kofax.com).
 * [Online documentation](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/c_welcomegeneral.html).
 * [Product Homepage](https://www.kofax.com/products/rpa).
