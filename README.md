@@ -1,6 +1,6 @@
 
 # What's new in Kofax RPA 11.3
-Join us [online](https://cvent.me/Y7gqWA) on Tuesday April 22, 2022.  
+Join us [online](https://cvent.me/M2wgvK) on Tuesday April 22, 2022.  
 
 
 ## Useful Links
