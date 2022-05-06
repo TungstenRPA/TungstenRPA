@@ -1,6 +1,6 @@
 
 # What's new in Kofax RPA 11.3
-Join us [online](https://cvent.me/M2wgvK) on Tuesday April 22, 2022.  
+Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Quickstart Guide](https://github.com/KofaxRPA/Docker).
 
 
 ## Useful Links
