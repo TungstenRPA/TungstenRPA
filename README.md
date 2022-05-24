@@ -1,7 +1,7 @@
 
 # What's new in Kofax RPA 11.3
 Join our live [Community of Practice](https://cvent.me/Y7gqWA) each month.    
-**Next Event** Getting started with RPA in the Cloud
+**Next Event** May 24. Best Practices for Building Robots.  
 Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Quickstart Guide](https://github.com/KofaxRPA/Docker).
 
 
