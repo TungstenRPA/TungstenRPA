@@ -5,7 +5,7 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 ## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)] 
  24 May 2022. [Why you should use Location guards and never Seconds Guards](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688448)  [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688449)]  
 14 June 2022. **3 ways to install Kofax RPA made simple**  
-* Embedded with Kapplets for testing  
+* [Embedded](https://www.kofax.com/products/rpa/rpa-free-trial) for testing  
 * [Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) for testing & production  
 * [Docker](https://github.com/KofaxRPA/Docker) from [Docker Hub](https://hub.docker.com/u/kofax) for testing, production and cloud**  
 
