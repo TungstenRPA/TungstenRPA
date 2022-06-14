@@ -16,9 +16,12 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 * [Best Practices for Robots](https://github.com/KofaxRPA/RPA-Best-Practices#readme)
 * [Kofax RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.kofax.com).
 * [Online documentation](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/c_welcomegeneral.html).
+* [Free download with free 3 month license](https://www.kofax.com/products/rpa/rpa-free-trial).
+  * [How to build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf)
+  * [Video tutorials](https://www.kofax.com/eg/kofax-rpa-tutorials)
 * [Product Homepage](https://www.kofax.com/products/rpa).
 * Share your assets on [Kofax Smarthub](https://smarthub.kofax.com/).
-* [Free download with free 3 month license](https://www.kofax.com/products/rpa/rpa-free-trial).
+* [Request a customer portal account](https://knowledge.kofax.com/General_Support/00_Support_Forms/Customer_Portal_Request?_ga=2.130987279.1656012013.1655202293-294255832.1654091170)
 
 This GitHub account is managed by Kofax Sales Enablement.
 
