@@ -13,7 +13,7 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 
 ## Useful Links
 * [What's new in Kofax 11.3](https://github.com/KofaxRPA/RPA-11.3) presentation and robots. [[11.2](https://github.com/KofaxRPA/RPA-11.2)] [[11.1](https://github.com/KofaxRPA/RPA-11.1)]  
-* [Best Practices for Robots](https://github.com/KofaxRPA/RPA-Best-Practices#readme) [Install RPA & Kapplets on Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)
+* [Best Practices for Robots](https://github.com/KofaxRPA/RPA-Best-Practices#readme) [[Install RPA & Kapplets on Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)]
 * [Kofax RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.kofax.com).
 * [Online documentation](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/c_welcomegeneral.html).
 * [Free download with free 3 month license](https://www.kofax.com/products/rpa/rpa-free-trial).
