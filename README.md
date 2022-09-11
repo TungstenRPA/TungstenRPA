@@ -1,7 +1,10 @@
 
+# Tuesday 13 September. What value does RPA bring to BPM?
+See how to increase information processing in your Kofax KTA solution. 
+[Register Now](https://cvent.me/Y7gqWA)
 # What's new in Kofax RPA 11.3
 [Community of Practice](https://cvent.me/Y7gqWA) each month.  
-   Tuesday 13 September. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM?  
+   Tuesday 13 September. How to combine Kofax RPA and Kofax Total Agility.   
 8 September 2022. A [Fix file](https://community.kofax.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements) was released for Kofax RPA 11.3.0.2.
 Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Docker Quickstart Guide](https://github.com/KofaxRPA/Docker).
 ## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)] 
