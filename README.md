@@ -10,7 +10,7 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 ## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)] 
  24 May 2022. [Why you should use Location guards and never Seconds Guards](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688448)   [[video](https://kofax.app.bigtincan.com/pfiles/PDNGeb409jkXm573rE5xiDhncyceiOUdgQldzv1ya6KYpAwOMq/f/1039981596)] [[presentation](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688449)]  
 14 June 2022. **3 ways to install Kofax RPA made simple** [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/rRLP0b65oAaQdJGlOE66i0hDc5cMiJUNE3jyVKYx27kZzMqweW/f/1039981561)]  
-Tuesday 13 September. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [Register](https://cvent.me/Y7gqWA) 
+Tuesday 13 September. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [video & presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y) 
 * [Embedded](https://www.kofax.com/products/rpa/rpa-free-trial) for testing  
 * [Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) for testing & production  
 * [Docker](https://github.com/KofaxRPA/Docker) from [Docker Hub](https://hub.docker.com/u/kofax) for testing, production and cloud**  
