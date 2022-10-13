@@ -22,6 +22,7 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 * [Kofax RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.kofax.com).
 * Git/GitHub/BitBucket/etc integration with [Robot Lifecycle Management](https://github.com/KofaxRPA/Robot-Lifecycle-Management-Guide)
 * [Online documentation](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/c_welcomegeneral.html).
+* Hardware and Software [Technical Specifications](https://docshield.kofax.com/RPA/en_US/11.3.0_5cdzhlgb3t/print/KofaxRPATechnicalSpecifications_11.3.0_EN.pdf).  (The latest link is under **What's New** in the [online documentation](https://docshield.kofax.com/ia-platform.html)).
 * [Free download with free 3 month license](https://www.kofax.com/products/rpa/rpa-free-trial).
   * [How to build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf)
   * [Video tutorials](https://www.kofax.com/eg/kofax-rpa-tutorials)
