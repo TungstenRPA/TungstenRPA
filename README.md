@@ -6,11 +6,10 @@ Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our 
 **Tuesday 11 October**. Downloading 1000's of documents with a webcrawler. Featuring *Recursion, Database, Robustness*. These files are used in the 4 October Kofax Transformation Community of Practice which shows how to manage, train and test 1000's of documents, part of our series in **AI skills for Kofax**.
 
 13 September 2022. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [[video & presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y)] 
+14 June 2022. **3 ways to install Kofax RPA made simple** [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/rRLP0b65oAaQdJGlOE66i0hDc5cMiJUNE3jyVKYx27kZzMqweW/f/1039981561)]  
 * [Embedded](https://www.kofax.com/products/rpa/rpa-free-trial) for testing  
 * [Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) for testing & production  
 * [Docker](https://github.com/KofaxRPA/Docker) from [Docker Hub](https://hub.docker.com/u/kofax) for testing, production and cloud**  
-
-14 June 2022. **3 ways to install Kofax RPA made simple** [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/rRLP0b65oAaQdJGlOE66i0hDc5cMiJUNE3jyVKYx27kZzMqweW/f/1039981561)]  
 
 24 May 2022. [Why you should use Location guards and never Seconds Guards](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688448)   [[video](https://kofax.app.bigtincan.com/pfiles/PDNGeb409jkXm573rE5xiDhncyceiOUdgQldzv1ya6KYpAwOMq/f/1039981596)] [[presentation](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688449)]  
 
