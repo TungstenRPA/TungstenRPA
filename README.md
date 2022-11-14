@@ -3,9 +3,10 @@
 8 September 2022. A [Fix file](https://community.kofax.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements) was released for Kofax RPA 11.3.0.2.
 Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Docker Quickstart Guide](https://github.com/KofaxRPA/Docker).
 ## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)] 
+Tuesday 14 November. Tips for building a (desktop) robot.  
 Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring *Recursion, Database, Robustness*. [[presentation and video](https://kofax.app.bigtincan.com/lshare/509QLepyr4vlONPk1Va6gXytyixUOEM3RzA2oxb7WnwjYGdJXD)]. These files were used in the 4 October Kofax Transformation Community of Practice which shows how to manage, train and test 1000's of documents, part of our series in **AI skills for Kofax**.
 
-13 September 2022. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [[video & presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y)] 
+13 September 2022. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [[video & presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y)]  
 14 June 2022. **3 ways to install Kofax RPA made simple** [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/rRLP0b65oAaQdJGlOE66i0hDc5cMiJUNE3jyVKYx27kZzMqweW/f/1039981561)]  
 * [Embedded](https://www.kofax.com/products/rpa/rpa-free-trial) for testing  
 * [Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) for testing & production  
