@@ -3,13 +3,14 @@
 * [Release information](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases).
 * [Download](https://github.com/KofaxRPA/Docker) from [DockerHub](https://hub.docker.com/r/kofax/rpa-managementconsole). Get a [free 90 day trial license](https://www.kofax.com/products/rpa/rpa-free-trial).
 * [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/c_welcomegeneral.html)
-* New Features (Look out for webinar about 14 Feb 2023.)
+* New Features (Look out for webinar lateFeb 2023.)
   *	OAuth Authentication now supported for Microsoft Mail via Triggers in MC. NOT in Mail Step in Robots.
   *	Desktop Automation Service can use OAuth to authenticate with Management Console.
+  *	[Kapplets](https://github.com/KofaxRPA/Docker/blob/6b954e9188e3828183b9e9e6ce37afe4b3cde62a/docker-compose.yml) now works on Docker
   *	“Quick RPA for KTA”. This is a new feature of KTA, that creates KTA objects equivalent to the Robot input and output types.
   *	Document Transformation Service has been upgraded to the latest version of Kofax Transformation: Kofax Omnipage is default OCR. Finereader has been removed.
   *	Classic Browser deprecation in Basic Engine Robot. Very old robots should migrate to Web-kit.
-  *	Kapplet error handling has been in=mproved.
+  *	Kapplet error handling has been improved.
 # What's new in Kofax RPA 11.3
 8 September 2022. A [Fix file](https://community.kofax.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements) was released for Kofax RPA 11.3.0.2.
 Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Docker Quickstart Guide](https://github.com/KofaxRPA/Docker).
