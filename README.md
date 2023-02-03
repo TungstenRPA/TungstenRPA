@@ -4,7 +4,7 @@
 * [Download](https://github.com/KofaxRPA/Docker) from [DockerHub](https://hub.docker.com/r/kofax/rpa-managementconsole). Get a [free 90 day trial license](https://www.kofax.com/products/rpa/rpa-free-trial).
 * [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/c_welcomegeneral.html)
 * New Features (Look out for webinar late Feb 2023.)
-  *	OAuth Authentication now supported for Microsoft Mail via Triggers in MC. NOT in Mail Step in Robots.
+  *	OAuth Authentication now supported for [Microsoft 365 Mail](https://github.com/KofaxRPA/Mail/blob/master/Microsoft365.md) via Triggers in MC. NOT in Mail Step in Robots.
   *	Desktop Automation Service can use OAuth to authenticate with Management Console.
   *	[Kapplets](https://github.com/KofaxRPA/Docker/blob/6b954e9188e3828183b9e9e6ce37afe4b3cde62a/docker-compose.yml) now works on Docker
   *	“Quick RPA for KTA”. This is a new feature of KTA, that creates KTA objects equivalent to the Robot input and output types.
