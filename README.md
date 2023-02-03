@@ -40,6 +40,13 @@ Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring
 * [Product Homepage](https://www.kofax.com/products/rpa).
 * Share your assets on [Kofax Smarthub](https://smarthub.kofax.com/).
 * [Request a customer portal account](https://knowledge.kofax.com/General_Support/00_Support_Forms/Customer_Portal_Request?_ga=2.130987279.1656012013.1655202293-294255832.1654091170)
+## Connectors for Custom Actions
+ * [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/designstudio/c_das_customactionstep.html) for building connectors in node.js, python, shell or exe programs.
+ * [Office2PDF Connector](https://github.com/KofaxRPA/RPA-Connector-Office2PDF).
+ * [Filesystem Connector](https://github.com/KofaxRPA/RPA-Connector-File-System) **(made redundant in 11.3 by [File System Action](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/designstudio/c_das_filesystemactionstep.html))**.
+ * [SAP RFC Connector](https://github.com/KofaxRPA/RPA-Connector-RFC).
+ * [Zip Connector](https://github.com/KofaxRPA/RPA-Connector-Zip).
+ 
 
 This GitHub account is managed by Kofax Sales Enablement.
 
