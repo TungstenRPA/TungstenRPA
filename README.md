@@ -39,7 +39,8 @@ Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring
   * [How to build your first robot](https://www.kofax.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf)
   * [Video tutorials](https://www.kofax.com/eg/kofax-rpa-tutorials)
 * [Product Homepage](https://www.kofax.com/products/rpa).
-* Share your assets on [Kofax Smarthub](https://smarthub.kofax.com/).
+* Share your assets on [Kofax MarketPlace](https://marketplace.kofax.com/).
+* [Read emails](https://github.com/KofaxRPA/RPA-11.1/blob/main/Enhanced%20Email%20Integration.md#enhanced-email-integration-in-kofax-rpa-111) via Management Console.
 * [Request a customer portal account](https://knowledge.kofax.com/General_Support/00_Support_Forms/Customer_Portal_Request?_ga=2.130987279.1656012013.1655202293-294255832.1654091170)
 ## Connectors for Custom Actions
  * [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/designstudio/c_das_customactionstep.html) for building connectors in node.js, python, shell or exe programs.
