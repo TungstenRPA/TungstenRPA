@@ -30,6 +30,7 @@ Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring
 
 ## Useful Links
 * [What's new in Kofax 11.3](https://github.com/KofaxRPA/RPA-11.3) presentation and robots. [[11.2](https://github.com/KofaxRPA/RPA-11.2)] [[11.1](https://github.com/KofaxRPA/RPA-11.1)]  
+* How to [queue a robot job](https://github.com/KofaxRPA/RPA-11.1/blob/main/RobotQueueing.md#robot-queueing-in-kofax-rpa) from an external application or from another robot. This makes asynchronous robot calling possible and does not consume an extra license as happens when a robot **calls** another robot synchronously
 * [Best Practices for Robots](https://github.com/KofaxRPA/RPA-Best-Practices#readme) [[Install RPA & Kapplets on Tomcat](https://github.com/KofaxRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)]
 * [Kofax RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.kofax.com).
 * Git/GitHub/BitBucket/etc integration with [Robot Lifecycle Management](https://github.com/KofaxRPA/Robot-Lifecycle-Management-Guide)
