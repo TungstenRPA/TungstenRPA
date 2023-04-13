@@ -1,6 +1,9 @@
 
 # [Kofax Partner Workshops]
-# Kofax RPA 11.4 was released on 17 Jan 2023!
+Kofax Partners are invited to a free 2-day [Partner Workshop](github.com/kofaxrpA/PartnerSeminar)!
+* [Reston, Virginia](https://www.eventbrite.com/e/604150038027), Monday May 8 - Tuesday May 9, 2023
+* [New Port Beach](https://www.eventbrite.com/e/604138222687), California Wednesday May 10 - Thursday May 11, 2023
+* # Kofax RPA 11.4 was released on 17 Jan 2023!
 * [Release information](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases).
 * [Download](https://github.com/KofaxRPA/Docker) from [DockerHub](https://hub.docker.com/r/kofax/rpa-managementconsole). Get a [free 90 day trial license](https://www.kofax.com/products/rpa/rpa-free-trial).
 * [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/c_welcomegeneral.html)
