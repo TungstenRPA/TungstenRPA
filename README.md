@@ -1,5 +1,6 @@
 
 # [Kofax Partner Workshops]
+* Kofax RPA [11.5](https://github.com/KofaxRPA/11.5) will be released early October 2023.
 Kofax Partners are invited to a free 2-day [Partner Workshop](https://github.com/KofaxRPA/PartnerSeminar/blob/main/README.md)!
 * [Reston, Virginia](https://www.eventbrite.com/e/604142876607), Monday May 8 - Tuesday May 9, 2023
 * [New Port Beach](https://www.eventbrite.com/e/604138222687), California Wednesday May 10 - Thursday May 11, 2023
