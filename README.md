@@ -1,6 +1,14 @@
 
 # [Kofax Partner Workshops]
-* Kofax RPA [11.5](https://github.com/KofaxRPA/11.5) will be released early October 2023.
+Join us on **Tuesday 24 October 2023** for a webinar **Whats new in Kofax RPA 11.5**
+  * [Asia Pac](https://kofax.webex.com/weblink/register/r7b50877e055c867a143004afc3244c8b) New Zealand 5PM, Sydney 3PM, Tokyo 1PM, Singapore 12PM, Delhi 9:30AM.
+  * [Europe/MiddleEast/Africa](https://kofax.webex.com/weblink/register/r5b38549a63124ac849358de2aaaf593c) Dubai 1PM, Vienna 11AM, London 10AM.
+  * [Americas]() Brazil 3PM, Eastern Time 2PM, Pacific 11AM.  
+
+
+### Kofax RPA 11.5 was released October 4, 2023.
+
+[[Documentation](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.kofax.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)] [[Download](https://delivery.kofax.com)] [[Free Trial License](https://www.kofax.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
 * Kofax RPA 11.4 was released on 17 Jan 2023.
 * [Release information](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases).
 * [Download](https://github.com/KofaxRPA/Docker) from [DockerHub](https://hub.docker.com/r/kofax/rpa-managementconsole). Get a [free 90 day trial license](https://www.kofax.com/products/rpa/rpa-free-trial).
