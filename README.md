@@ -3,7 +3,7 @@
 Join us on **Tuesday 24 October 2023** for a webinar **Whats new in Kofax RPA 11.5**
   * [Asia Pac](https://kofax.webex.com/weblink/register/r7b50877e055c867a143004afc3244c8b) New Zealand 5PM, Sydney 3PM, Tokyo 1PM, Singapore 12PM, Delhi 9:30AM.
   * [Europe/MiddleEast/Africa](https://kofax.webex.com/weblink/register/r5b38549a63124ac849358de2aaaf593c) Dubai 1PM, Vienna 11AM, London 10AM.
-  * [Americas]() Brazil 3PM, Eastern Time 2PM, Pacific 11AM.  
+  * [Americas](https://kofax.webex.com/weblink/register/r7d7752503383cc8c2bca64eb6b57c38b) Brazil 3PM, Eastern Time 2PM, Pacific 11AM.  
 
 
 ### Kofax RPA 11.5 was released October 4, 2023.
