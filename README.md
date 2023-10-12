@@ -6,7 +6,7 @@ Join us on **Tuesday 24 October 2023** for a webinar **Whats new in Kofax RPA 11
   * [Americas](https://kofax.webex.com/weblink/register/r7d7752503383cc8c2bca64eb6b57c38b) Brazil 3PM, Eastern Time 2PM, Pacific 11AM.  
 
 
-### Kofax RPA 11.5 was released October 4, 2023.
+### Kofax RPA 11.5.0.1 will be released late October 2023.
 
 [[Documentation](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.kofax.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)] [[Download](https://delivery.kofax.com)] [[Free Trial License](https://www.kofax.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
 * Kofax RPA 11.4 was released on 17 Jan 2023.
