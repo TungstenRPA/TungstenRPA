@@ -2,21 +2,14 @@
 This is a step-by-step guide to building a robust robot showing the use of guards, aliases, loops, loops in loops, database connections, expressions and more. 
 [[presentation and video](https://kofax.app.bigtincan.com/lshare/jdrRlDXkZ6Jn59w1OgoOTjf9hbTlCAsOgpoqN4WPzaYx72AQyG)] [[download robot](https://github.com/KofaxRPA/Hansard-Robot)]  
 
-# [Kofax Partner Workshops]
-Join us on **Tuesday 24 October 2023** for a webinar **Whats new in Kofax RPA 11.5**
-  * [Asia Pac](https://kofax.webex.com/weblink/register/r7b50877e055c867a143004afc3244c8b) New Zealand 5PM, Sydney 3PM, Tokyo 1PM, Singapore 12PM, Delhi 9:30AM. [Presentation] [Video]
-  * [Europe/MiddleEast/Africa](https://kofax.webex.com/weblink/register/r5b38549a63124ac849358de2aaaf593c) Dubai 1PM, Vienna 11AM, London 10AM. [Presentation] [Video]
-  * [Americas](https://kofax.webex.com/weblink/register/r7d7752503383cc8c2bca64eb6b57c38b) Brazil 3PM, Eastern Time 2PM, Pacific 11AM. [Presentation] [Video]
-
-
-### Kofax RPA 11.5.0.1 will be released late October 2023.
-
-[[Documentation](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.kofax.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)] [[Download 11.4](https://delivery.kofax.com)] [[Free Trial License](https://www.kofax.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
+# Kofax RPA 11.5
+[[Documentation](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.kofax.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)] [[Free Trial License](https://www.kofax.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]  
+What's New in RPA 11.5 [[Presentation and Video](https://kofax.app.bigtincan.com/lshare/eaRw9YWxqA4pb6QMJgXPT1fmt7hKtPF4gOPlvD3ZXr2n0oymV5)]  
+* Kofax RPA 11.5.0.1  will be released late October 2023.
+# Kofax RPA 11.4
+ [[Download 11.4](https://delivery.kofax.com)] [[Release Notes](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases)] [[Free Trial License](https://www.kofax.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
 * Kofax RPA 11.4 was released on 17 Jan 2023.
-* [Release information](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases).
-* [Download](https://github.com/KofaxRPA/Docker) from [DockerHub](https://hub.docker.com/r/kofax/rpa-managementconsole). Get a [free 90 day trial license](https://www.kofax.com/products/rpa/rpa-free-trial).
-* [Documentation](https://docshield.kofax.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/c_welcomegeneral.html)
-* New Features (Look out for webinar late Feb 2023.)
+* New Features
   *	OAuth Authentication now supported for [Microsoft 365 Mail](https://github.com/KofaxRPA/Mail/blob/master/Microsoft365.md) via Triggers in MC. NOT in Mail Step in Robots.
   *	Desktop Automation Service can use OAuth to authenticate with Management Console.
   *	[Kapplets](https://github.com/KofaxRPA/Docker/blob/6b954e9188e3828183b9e9e6ce37afe4b3cde62a/docker-compose.yml) now works on Docker
@@ -24,7 +17,7 @@ Join us on **Tuesday 24 October 2023** for a webinar **Whats new in Kofax RPA 11
   *	Document Transformation Service has been upgraded to the latest version of Kofax Transformation: Kofax Omnipage is default OCR. Finereader has been removed.
   *	Classic Browser deprecation in Basic Engine Robot. Very old robots should migrate to Web-kit.
   *	Kapplet error handling has been improved.
-# What's new in Kofax RPA 11.3
+# Kofax RPA 11.3
 8 September 2022. A [Fix file](https://community.kofax.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements) was released for Kofax RPA 11.3.0.2.
 Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Docker Quickstart Guide](https://github.com/KofaxRPA/Docker).
 ## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)]   
