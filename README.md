@@ -57,6 +57,6 @@ Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring
  * [Zip Connector](https://github.com/KofaxRPA/RPA-Connector-Zip).
  
 
-This GitHub account is managed by Kofax Sales Enablement.
+This GitHub account is managed by Tungsten Automation Sales Enablement.
 
-Visit also our [KofaxTransformation repository](https://github.com/KofaxTransformation).
+Visit also our [TungstenTransformation repository](https://github.com/TungstenTransformation).
