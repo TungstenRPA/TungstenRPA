@@ -7,7 +7,7 @@ This is a step-by-step guide to building a robust robot showing the use of guard
 What's New in RPA 11.5 [[Presentation and Video](https://kofax.app.bigtincan.com/lshare/eaRw9YWxqA4pb6QMJgXPT1fmt7hKtPF4gOPlvD3ZXr2n0oymV5)]  
 * Kofax RPA 11.5.0.1  will be released late October 2023.
 # Kofax RPA 11.4
- [[Download 11.4](https://delivery.tungstenautomation.com)] [[Release Notes](https://knowledge.tungstenautomation.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
+ [[Download 11.4](https://delivery.tungstenautomation.com)] [[Release Notes](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
 * Kofax RPA 11.4 was released on 17 Jan 2023.
 * New Features
   *	OAuth Authentication now supported for [Microsoft 365 Mail](https://github.com/TungstenRPA/Mail/blob/master/Microsoft365.md) via Triggers in MC. NOT in Mail Step in Robots.
@@ -48,7 +48,7 @@ Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring
 * [Product Homepage](https://www.tungstenautomation.com/products/rpa).
 * Share your assets on [Kofax MarketPlace](https://marketplace.tungstenautomation.com/).
 * [Read emails](https://github.com/TungstenRPA/RPA-11.1/blob/main/Enhanced%20Email%20Integration.md#enhanced-email-integration-in-kofax-rpa-111) via Management Console.
-* [Request a customer portal account](https://knowledge.tungstenautomation.com/General_Support/00_Support_Forms/Customer_Portal_Request?_ga=2.130987279.1656012013.1655202293-294255832.1654091170)
+* [Request a customer portal account](https://knowledge.kofax.com/General_Support/00_Support_Forms/Customer_Portal_Request?_ga=2.130987279.1656012013.1655202293-294255832.1654091170)
 ## Connectors for Custom Actions
  * [Documentation](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_help/help_main/designstudio/c_das_customactionstep.html) for building connectors in node.js, python, shell or exe programs.
  * [Office2PDF Connector](https://github.com/TungstenRPA/RPA-Connector-Office2PDF).
