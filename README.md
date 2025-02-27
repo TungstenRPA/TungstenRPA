@@ -1,15 +1,29 @@
-# Complete Guide to Building a Robot
-This is a step-by-step guide to building a robust robot showing the use of guards, aliases, loops, loops in loops, database connections, expressions and more. 
-[[presentation and video](https://kofax.app.bigtincan.com/lshare/jdrRlDXkZ6Jn59w1OgoOTjf9hbTlCAsOgpoqN4WPzaYx72AQyG)] [[download robot](https://github.com/TungstenRPA/Hansard-Robot)]  
+# Welcome to the Tungsten RPA Github Repository
+<img align="left" src="Tungsten-RPA.svg" width="20%" alt="Tungsten RPA logo"> Tungsten RPA enables the automation of labor-intensive, multi-step tasks across systems and data sources with no coding. It leverages an enterprise-class, server-based approach that is resilient, highly scalable and only uses desktops when really needed.  
 
-# Tungsten RPA 11.5
-[[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]  
-What's New in RPA 11.5 [[Presentation and Video](https://kofax.app.bigtincan.com/lshare/eaRw9YWxqA4pb6QMJgXPT1fmt7hKtPF4gOPlvD3ZXr2n0oymV5)]  
-* Kofax RPA 11.5.0.1  will be released late October 2023.
-# Kofax RPA 11.4
- [[Download 11.4](https://delivery.tungstenautomation.com)] [[Release Notes](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.4_Releases)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/kofax)]
-* Kofax RPA 11.4 was released on 17 Jan 2023.
-* New Features
+## Learn 
+### Complete Guide to Building a Robot
+This is a step-by-step guide to building a robust robot showing the use of guards, aliases, loops, loops in loops, database connections, expressions and more. 
+[[presentation and video](https://play.vidyard.com/zxsZLeBzzZpnu9qbEZVRwh)] [[download robot](https://github.com/TungstenRPA/Hansard-Robot)]
+### Community (Q&A Forum)
+Connect with your peers, ask or answer questions, share best practices and learn from others.
+[[Tungsten RPA Community](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/rpa)]
+### Best Practices
+Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Best-Practices#readme) 
+## Product Releases
+### Tungsten RPA 11.5
+[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+* Tungsten RPA 11.5 was released on Oct 04, 2023
+  * [What's New in RPA 11.5](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
+* Tungsten RPA 11.5.0.6 was released on Feb 08, 2025
+  * [RPA 11.5.0 Fix Pack 6 Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/print/ReadMe-KofaxRPA-11.5.0.6.htm)
+### Kofax RPA 11.4
+ [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.4.0-vcsft2fhaw/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+* Kofax RPA 11.4 was released on 17 Jan 2023
+  * [What's New in RPA 11.4](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
+* Kofax RPA 11.4.0.6 was released on Jan 17, 2025
+  * [RPA 11.4.0 Fix Pack 6 Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/print/ReadMe-KofaxRPA-11.4.0.6.htm)
+* Key New Features
   *	OAuth Authentication now supported for [Microsoft 365 Mail](https://github.com/TungstenRPA/Mail/blob/master/Microsoft365.md) via Triggers in MC. NOT in Mail Step in Robots.
   *	Desktop Automation Service can use OAuth to authenticate with Management Console.
   *	[Kapplets](https://github.com/TungstenRPA/Docker/blob/6b954e9188e3828183b9e9e6ce37afe4b3cde62a/docker-compose.yml) now works on Docker
@@ -17,31 +31,18 @@ What's New in RPA 11.5 [[Presentation and Video](https://kofax.app.bigtincan.com
   *	Document Transformation Service has been upgraded to the latest version of Kofax Transformation: Kofax Omnipage is default OCR. Finereader has been removed.
   *	Classic Browser deprecation in Basic Engine Robot. Very old robots should migrate to Web-kit.
   *	Kapplet error handling has been improved.
-# Kofax RPA 11.3
-8 September 2022. A [Fix file](https://community.tungstenautomation.com/s/question/0D53m00006FG8ThCAL/robotic-process-automation-release-announcements) was released for Kofax RPA 11.3.0.2.
-Kofax RPA 11.3 is now on [Docker Hub](https://hub.docker.com/u/kofax). Read our [Docker Quickstart Guide](https://github.com/TungstenRPA/Docker).
-## RPA Community of Practice every month [[register](https://cvent.me/Y7gqWA)]   
-Tuesday 14 November. Tips for building a (desktop) robot. [[presentation and video](https://kofax.app.bigtincan.com/lshare/jdrRlDXkZ6Jn59w1OgoOTjf9hbTlCAsOgpoqN4WPzaYx72AQyG)] [[download robot](https://github.com/TungstenRPA/Hansard-Robot)]  
-Tuesday 11 October. Downloading 1000's of documents with a webcrawler. Featuring *Recursion, Database, Robustness*. [[presentation and video](https://kofax.app.bigtincan.com/lshare/509QLepyr4vlONPk1Va6gXytyixUOEM3RzA2oxb7WnwjYGdJXD)]. These files were used in the 4 October Kofax Transformation Community of Practice which shows how to manage, train and test 1000's of documents, part of our series in **AI skills for Kofax**.
-
-13 September 2022. How to combine Kofax RPA and Kofax Total Agility. What value does RPA bring to BPM? [[video & presentation](https://kofax.app.bigtincan.com/lshare/w7GmZ6QAnXbepkDLzdJYEmMTPFwsLEN2j3l4a5oR10VOxvqP9y)]  
-14 June 2022. **3 ways to install Kofax RPA made simple** [[video](https://kofax.app.bigtincan.com/pfiles/KkoeJP7wRa4bVZqMlg2Vf3sOc7CAflTWg12YNx0OjGAzmp3yXW/f/1039688592)] [[presentation](https://kofax.app.bigtincan.com/pfiles/rRLP0b65oAaQdJGlOE66i0hDc5cMiJUNE3jyVKYx27kZzMqweW/f/1039981561)]  
-* [Embedded](https://www.tungstenautomation.com/products/rpa/rpa-free-trial) for testing  
-* [Tomcat](https://github.com/TungstenRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows) for testing & production  
-* [Docker](https://github.com/TungstenRPA/Docker) from [Docker Hub](https://hub.docker.com/u/kofax) for testing, production and cloud**  
-
-24 May 2022. [Why you should use Location guards and never Seconds Guards](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688448)   [[video](https://kofax.app.bigtincan.com/pfiles/PDNGeb409jkXm573rE5xiDhncyceiOUdgQldzv1ya6KYpAwOMq/f/1039981596)] [[presentation](https://kofax.app.bigtincan.com/pfiles/eb9PWRq270Kl3AXN5gyxf1sncQUvUDUM8wyrVvDjZoGO4pxYQ1/f/1039688449)]  
-
-
-
+### Kofax RPA 11.3
+ [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.3.0_5cdzhlgb3t/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+* Kofax RPA 11.3 was released on May 5, 2022
+  * [What's New in RPA 11.3](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
+  * [What's New in RPA 11.3 presentation](https://github.com/TungstenRPA/RPA-11.3). [[New in 11.2](https://github.com/TungstenRPA/RPA-11.2)] [[New in 11.1](https://github.com/TungstenRPA/RPA-11.1)] 
+* Kofax RPA 11.3.0.6 was released on May 16, 2024
+  * [RPA 11.3.0 Fix Pack 6 Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/print/ReadMe-KofaxRPA-11.3.0.6.htm)
 ## Useful Links
-* [What's new in Kofax 11.3](https://github.com/TungstenRPA/RPA-11.3) presentation and robots. [[11.2](https://github.com/TungstenRPA/RPA-11.2)] [[11.1](https://github.com/TungstenRPA/RPA-11.1)]  
 * How to [queue a robot job](https://github.com/TungstenRPA/RPA-11.1/blob/main/RobotQueueing.md#robot-queueing-in-kofax-rpa) from an external application or from another robot. This makes asynchronous robot calling possible and does not consume an extra license as happens when a robot **calls** another robot synchronously
-* [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Best-Practices#readme) [[Install RPA & Kapplets on Tomcat](https://github.com/TungstenRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)]
-* [Kofax RPA](https://community.tungstenautomation.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Kofax Community](https://community.tungstenautomation.com).
+* [[Install RPA & Kapplets on Tomcat](https://github.com/TungstenRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)]
+* [Tungsten RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Tungsten Community](https://community.kofax.com).
 * Git/GitHub/BitBucket/etc integration with [Robot Lifecycle Management](https://github.com/TungstenRPA/Robot-Lifecycle-Management-Guide)
-* [Online documentation](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_help/help_main/c_welcomegeneral.html).
-* Hardware and Software [Technical Specifications](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/print/KofaxRPATechnicalSpecifications_11.3.0_EN.pdf).  (The latest link is under **What's New** in the [online documentation](https://docshield.tungstenautomation.com/ia-platform.html)).
 * [Free download with free 3 month license](https://www.tungstenautomation.com/products/rpa/rpa-free-trial).
   * [How to build your first robot](https://www.tungstenautomation.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf)
   * [Video tutorials](https://www.tungstenautomation.com/eg/kofax-rpa-tutorials)
