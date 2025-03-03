@@ -11,7 +11,7 @@ Connect with your peers, ask or answer questions, share best practices and learn
 ### Best Practices
 Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Best-Practices#readme) 
 ## Product Releases
-### [Tungsten RPA 11.5](11.5/Readme.md)
+### [Tungsten RPA 11.5](https://github.com/TungstenRPA/11.5)
 [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 11.5 was released on Oct 04, 2023
   * [What's New in RPA 11.5](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
