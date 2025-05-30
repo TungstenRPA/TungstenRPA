@@ -26,6 +26,9 @@ Connect with your peers, ask or answer questions, share best practices and learn
 ### Best Practices
 Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Best-Practices#readme) 
 ## Product Releases
+
+<table><tr><td>Please refer to our <a href=https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce1/page/19235.html>Lifecycle Policies and End of Support Dates</a> for details on support duration and end of support dates.</td></tr></table>
+
 ### [Tungsten RPA 2025.2](https://github.com/TungstenRPA/2025.2)
 [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 2025.2 was released on May 19, 2025
