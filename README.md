@@ -2,15 +2,34 @@
 <img align="left" src="Tungsten-RPA.svg" width="20%" alt="Tungsten RPA logo"> Tungsten RPA enables the automation of labor-intensive, multi-step tasks across systems and data sources with no coding. It leverages an enterprise-class, server-based approach that is resilient, highly scalable and only uses desktops when really needed.  
 
 ## Learn 
-### Complete Guide to Building a Robot
-This is a step-by-step guide to building a robust robot showing the use of guards, aliases, loops, loops in loops, database connections, expressions and more. 
-[[presentation and video](https://play.vidyard.com/zxsZLeBzzZpnu9qbEZVRwh)] [[download robot](https://github.com/TungstenRPA/Hansard-Robot)]
+### Getting Started Video Tutorials
+* [Introduction to RPA Concepts](https://player.vimeo.com/video/1026274148)
+* [Building a Robot: Introduction to the Design Studio](https://player.vimeo.com/video/1026274834)
+* [Building a Robot: Interacting with Web Pages](https://player.vimeo.com/video/1026294162)
+* [Deploying a Robot: Introduction to the Management Console](https://player.vimeo.com/video/1026294177)
+* [Where to go from here](https://player.vimeo.com/video/1026294141)
+
+[//]: # (This is a step-by-step guide to building a robust robot showing the use of guards, aliases, loops, loops in loops, database connections, expressions and more. presentation and video https://play.vidyard.com/zxsZLeBzzZpnu9qbEZVRwh download robot https://github.com/TungstenRPA/Hansard-Robot)
+
+### Tutorials in Online Help
+* [Introduction to building Robots](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/help_main/designstudio/c_intro_robot_building.html)
+* [Introduction to Design Studio](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/help_main/designstudio/c_designstudio.html)
+* [Getting Started with Robot Building Guide](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/print/TungstenRPAGettingStartedRobotBuildingGuide_EN.pdf)
+* [Build a Robot](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/help_main/designstudio/c_getstartedwithdas.html)
+* [Add Robot steps](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/help_main/designstudio/c_dassteps.html)
+* [Edit Robot](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/help_main/designstudio/c_robot_editor.html)
+* [Introduction to Robot Lifecycle Management](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_help/All_Shared/c_introduction.html)
+
 ### Community (Q&A Forum)
 Connect with your peers, ask or answer questions, share best practices and learn from others.
-[[Tungsten RPA Community](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/rpa)]
+[Tungsten RPA Community](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/rpa)
 ### Best Practices
 Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Best-Practices#readme) 
 ## Product Releases
+### [Tungsten RPA 2025.2]
+[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+* Tungsten RPA 2025.2 was released on May 19, 2025
+  * [What's New in RPA 2025.2](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
 ### [Tungsten RPA 11.5](https://github.com/TungstenRPA/11.5)
 [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 11.5 was released on Oct 04, 2023
