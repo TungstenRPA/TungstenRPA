@@ -30,17 +30,17 @@ Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Be
 <table><tr><td>Please refer to our <a href=https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce1/page/19235.html>Lifecycle Policies and End of Support Dates</a> for details on support duration and end of support dates.</td></tr></table>
 
 ### [Tungsten RPA 2025.2](https://github.com/TungstenRPA/2025.2)
-[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/2025.2-shem3gtulr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/index.html)]  [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 2025.2 was released on May 19, 2025
   * [What's New in RPA 2025.2](https://docshield.tungstenautomation.com/RPA/en_US/2025.2-shem3gtulr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
 ### [Tungsten RPA 11.5](https://github.com/TungstenRPA/11.5)
-[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+[[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.5.0-nlfihq5gwr/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/index.html)]  [[DockerHub](https://hub.docker.com/u/tungstenautomation)]  [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Tungsten RPA 11.5 was released on Oct 04, 2023
   * [What's New in RPA 11.5](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
 * Tungsten RPA 11.5.0.6 was released on Feb 08, 2025
   * [RPA 11.5.0 Fix Pack 6 Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.5.0-nlfihq5gwr/print/ReadMe-KofaxRPA-11.5.0.6.htm)
 ### Kofax RPA 11.4
- [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.4.0-vcsft2fhaw/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+ [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.4.0-vcsft2fhaw/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_rn/index.html)]  [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Kofax RPA 11.4 was released on 17 Jan 2023
   * [What's New in RPA 11.4](https://docshield.tungstenautomation.com/RPA/en_US/11.4.0-vcsft2fhaw/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
 * Kofax RPA 11.4.0.6 was released on Jan 17, 2025
@@ -54,7 +54,7 @@ Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Be
   *	Classic Browser deprecation in Basic Engine Robot. Very old robots should migrate to Web-kit.
   *	Kapplet error handling has been improved.
 ### Kofax RPA 11.3
- [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.3.0_5cdzhlgb3t/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_rn/index.html)] [[Free Trial License](https://www.tungstenautomation.com/products/rpa/rpa-free-trial)] [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
+ [[Download](https://delivery.tungstenautomation.com)] [[Documentation](https://docshield.tungstenautomation.com/Portal/Products/en_US/RPA/11.3.0_5cdzhlgb3t/RPA.htm)] [[Release Notes](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_rn/index.html)]  [[DockerHub](https://hub.docker.com/u/tungstenautomation)] [[Knowledge Portal Quick Links](https://knowledge.tungstenautomation.com/bundle/z-kb-articles-salesforce9/page/34865.html)]
 * Kofax RPA 11.3 was released on May 5, 2022
   * [What's New in RPA 11.3](https://docshield.tungstenautomation.com/RPA/en_US/11.3.0_5cdzhlgb3t/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)
   * [What's New in RPA 11.3 presentation](https://github.com/TungstenRPA/RPA-11.3). [[New in 11.2](https://github.com/TungstenRPA/RPA-11.2)] [[New in 11.1](https://github.com/TungstenRPA/RPA-11.1)] 
@@ -65,9 +65,7 @@ Compilation of [Best Practices for Robots](https://github.com/TungstenRPA/RPA-Be
 * [[Install RPA & Kapplets on Tomcat](https://github.com/TungstenRPA/RPA-Best-Practices/wiki/Install-Kofax-RPA-11.3-on-Apache-Tomcat-on-Windows)]
 * [Tungsten RPA](https://community.kofax.com/s/topic/0TO3m000000IznGGAS/robotic-process-automation) at [Tungsten Community](https://community.kofax.com).
 * Git/GitHub/BitBucket/etc integration with [Robot Lifecycle Management](https://github.com/TungstenRPA/Robot-Lifecycle-Management-Guide)
-* [Free download with free 3 month license](https://www.tungstenautomation.com/products/rpa/rpa-free-trial).
-  * [How to build your first robot](https://www.tungstenautomation.com/-/media/files/e-books/en/ug_rpa-tutorial-guide-_en.pdf)
-  * [Video tutorials](https://www.tungstenautomation.com/eg/kofax-rpa-tutorials)
+* [Video tutorials](https://www.tungstenautomation.com/eg/kofax-rpa-tutorials)
 * [Product Homepage](https://www.tungstenautomation.com/products/rpa).
 * Share your assets on [Kofax MarketPlace](https://marketplace.tungstenautomation.com/).
 * [Read emails](https://github.com/TungstenRPA/RPA-11.1/blob/main/Enhanced%20Email%20Integration.md#enhanced-email-integration-in-kofax-rpa-111) via Management Console.
